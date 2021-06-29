@@ -4,25 +4,43 @@ body {
 }
 
 .main {
-  margin-top: 10px;
+  margin-top: 20px;
   margin: auto;
-  width: 90%;
+  width: 85%;
 }
 
 .topbox {
   background-color: #eeeeee;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  margin-top: 30px;
+  margin-top: 55px;
   padding: 50px;
 }
 
 .h1clr {
   color: #333333;
+  font-size: 60px;
+  font-weight: 200;
+  margin-top: 10px;
+  margin-bottom: 8px;
+}
+
+.h1cl {
+  margin-bottom: 8px;
+  margin-top: 35px;
+  font-size: 23px;
+  color: #333302;
+  font-weight: 100;
+}
+
+.abcd {
+  font-size: 20px;
+  margin-top: 7px;
 }
 
 .btn {
+  text-align: center;
   color: #f6e1e0;
-  padding: 8px;
+  padding: 6px;
   background: none;
   border: none;
   background-color: #3c81cf;
@@ -32,7 +50,7 @@ body {
 }
 
 .btn2 {
-  padding: 8px;
+  padding: 6px;
   border: 1px solid #eeeeee;
   background: none;
   color: #333333;
@@ -46,6 +64,9 @@ body {
   border-top: #eeeeee;
   color: #eeeeee;
   margin-top: 20px;
+  font-weight: 10;
+  font-size: 10px;
+  margin-top: 25px;
 }
 .container {
   background-color: white;
@@ -53,22 +74,23 @@ body {
 
 .navbar {
   background-color: #222222;
-  padding: 10px;
+  padding: 13px;
 }
 .navbarelement1 {
-  color: #eeeeee;
-  margin-left: 56px;
+  font-weight: 500;
+  color: #777777;
+  margin-left: 87px;
   font-size: 15px;
 }
 .navbarelements {
-  font-size: 10px;
-  color: #eeeeee;
+  font-size: 12px;
+  color: #777777;
   margin-left: 23px;
 }
 .column {
   float: left;
-  width: 21%;
-  margin-right: 35px;
+  width: 20%;
+  margin-right: 43px;
   padding: 10px;
   background-color: white;
   border: 1px solid #eeeeee;
@@ -100,11 +122,12 @@ img {
 .hrl2 {
   border-top: #eeeeee;
 
-  margin-top: 30px;
+  margin-top: 50px;
 }
 .peragrph {
   font-size: 17px;
 }
 .copyrt {
+  margin-top: 35px;
   color: #333333;
 }
